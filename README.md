@@ -1,2 +1,2 @@
 # SMS-Spam-Classifier
-A content based movie recommender system using cosine similarity
+Creating Personalized Movie Recommendations with Cosine Similarity
